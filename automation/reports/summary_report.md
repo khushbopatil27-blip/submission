@@ -1,5 +1,5 @@
 # Daily Security Log Summary
-_Generated 2026-10-29 14:02 - source: `sample_data/auth.log`_
+_Generated 2026-10-29 14:44 - source: `sample_data\auth.log`_
 
 ## Overview
 - Log lines read: **19**, security events extracted: **18**

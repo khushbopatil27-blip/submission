@@ -15,12 +15,7 @@ A small, dependency-free Python tool that supports the secure IT operations work
 ## Quick start (demo with included sample data)
 ```bash
 cd automation
-python3 log_analyzer.py \
-  --log sample_data/auth.log --year 2026 \
-  --users sample_data/system_users.csv \
-  --approved sample_data/approved_users.csv \
-  --today 2026-10-29 \
-  --out reports
+python3 log_analyzer.py --log sample_data/auth.log --year 2026 --users sample_data/system_users.csv --approved sample_data/approved_users.csv --today 2026-10-29 --out reports
 ```
 Output: report printed to the screen, plus `reports/summary_report.md`, `reports/summary_report.json` and `reports/events.db`.
 The folder `reports/` already contains the output from the sample run.

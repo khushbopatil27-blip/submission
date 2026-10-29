@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-10-29 14:02",
-    "log": "sample_data/auth.log",
+    "generated": "2026-10-29 14:44",
+    "log": "sample_data\\auth.log",
     "total": 19,
     "events": 18
   },
